@@ -1,1 +1,0 @@
-Thanwarat Chipprakit 20404601
