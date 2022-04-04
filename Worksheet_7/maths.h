@@ -1,3 +1,6 @@
+/** @file
+* This file contains the declarations of all exported functions.
+*/
 // calc_cmake/adder.h -----------------------------------
 // The following two lines prevent adder.h from being included
 // more than once in any source (.cpp) file. If this were to happen
@@ -35,6 +38,10 @@
 // before declarations. This is a Microsoft specific
 // extension to C/C++
 // prototype for our function
+
+/** Brief description
+* This description will hopefully be picked up on by doxygen
+*/
 MATHSLIB_API int add( int a, int b );
 #endif
 // / calc_cmake/adder.h -------------------------------------
