@@ -1,4 +1,0 @@
-C:/Users/thanw/2021_20404601/Worksheet 4/calc_cmake/mingw_static/CMakeFiles/calc.dir
-C:/Users/thanw/2021_20404601/Worksheet 4/calc_cmake/mingw_static/CMakeFiles/maths.dir
-C:/Users/thanw/2021_20404601/Worksheet 4/calc_cmake/mingw_static/CMakeFiles/edit_cache.dir
-C:/Users/thanw/2021_20404601/Worksheet 4/calc_cmake/mingw_static/CMakeFiles/rebuild_cache.dir

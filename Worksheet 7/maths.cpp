@@ -1,6 +1,0 @@
-//maths.cpp---------------------
-#include "maths.h"
-int add( int a, int b ) {
-return a + b;
-}
-//maths.cpp-----------------------
