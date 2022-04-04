@@ -8,9 +8,7 @@ include(CTest)
 
 add_library(maths maths.cpp)
 
-if( NOT BUILD_SHARED_LIBS )
-add_definitions( -Dmaths_STATIC )
-endif()
+
 
 add_executable(test1 test1.cpp)
 target_link_libraries(test1 maths)
