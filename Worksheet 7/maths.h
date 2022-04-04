@@ -6,8 +6,8 @@
 // commands for an "include guard" and are types of compiler directive.
 // The include guard contains an ID for this file "MATHSLIB_ADDER_H", this is
 // arbitrary but must be unique within the project.
-#ifndef MATHSLIB_ADDER_H
-#define MATHSLIB_ADDER_H
+#ifndef MATHSLIB_MATHS_H
+#define MATHSLIB_MATHS_H
 // We need to prefix our function names with an and additional
 // keyword which is different depending on the operating
 // system we are using, and whether we are using or creating the
