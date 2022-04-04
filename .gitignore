@@ -4,5 +4,5 @@
 *.exe
 *.o
 *.so
-*.html
+*html/
 build/
