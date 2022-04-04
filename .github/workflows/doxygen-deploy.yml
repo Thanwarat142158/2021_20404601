@@ -22,12 +22,12 @@ jobs:
 
     # Run Doxygen on Worksheet7 folder
     - name: Run Doxygen
-      working-directory: "${{github.workspace}}/Worksheet 7"
+      working-directory: ${{github.workspace}}/Worksheet_7
       run: doxygen
-      
+
     # Deploy html output from Doxygen to ghpages branches- name: Deploy
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@v4.2.5
       with:
         branch: gh-pages # The branch the action should deploy to.
-        folder: "${{github.workspace}}/Worksheet 7/html" #The folder the action should deploy.
+        folder: ${{github.workspace}}/Worksheet_7/html #The folder the action should deploy.
