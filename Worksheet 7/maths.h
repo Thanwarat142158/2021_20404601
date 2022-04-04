@@ -37,4 +37,4 @@
 // prototype for our function
 MATHSLIB_API int add( int a, int b );
 #endif
-// / calc_cmake/adder.h --------------------------------------
+// / calc_cmake/adder.h -------------------------------------
